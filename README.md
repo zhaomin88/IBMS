@@ -102,12 +102,7 @@ IBMS 将建筑的各个智能化子系统有机的聚合在一起，协调各子
 http://ibms.xingzhoukeji.com  demo演示网站
 http://218.77.110.7:8000/   合作伙伴的案例
 
-![输入图片说明](IBMS.jpg)
- 
-![输入图片说明](INDEX.gif)
-
 钉钉集成：
-![输入图片说明](dingding.png)
 
 #### 安装教程
 
